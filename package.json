@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "authServer",
   "main": "app.js",
-  "scripts":{
-    "start" : "env-cmd -f ./.env nodemon src/app.js"},
+  "scripts": {
+    "start": "env-cmd -f ./.env nodemon src/app.js"
+  },
   "author": "Manuel ruiz",
   "license": "MIT",
   "private": false,
